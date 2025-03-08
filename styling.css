@@ -1,3 +1,39 @@
-body{
-  background-color: #d5c6e0
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
 }
+.resume {
+  max-width: 800px;
+  background: white;
+  padding: 20px;
+  margin: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+.resume h2 {
+  color: #333;
+  border-bottom: 2px solid #4a330d;
+  padding-bottom: 5px;
+}
+.resume p {
+  line-height: 1.6;
+}
+.section {
+  margin-bottom: 20px;
+}
+.job {
+  margin-bottom: 15px;
+}
+.job h3 {
+  margin: 0;
+  color: #4a330d;
+}
+.job span {
+  font-size: 0.9em;
+  color: #666;
+}
+
